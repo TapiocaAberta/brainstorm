@@ -2,8 +2,8 @@
 
 TODO: adicionar links de coisas já existentes que podem ser mixadas a idéia.
 
-| Nome          | Objetivo          |
-| ------------- | ----------- |
+| Nome          | Objetivo          | Links |
+| ------------- | ----------- | --------------- |
 |  Orçamento participativo online. |  Criar uma plataforma que permita com que as pessoas participem do orçamento participativo sem ter a necessidade de ir até o local físico das reuniões.
 |  Avalie a lei | Mostrar de maneira mais simples e objetiva as leis criadas pelos vereadores. Permitindo que os usuários interajam com comentários e avaliações dos projetos.
 |  Cadastro de ocorrências |  Cadastrar diversos tipos de dados pela cidade. assaltos, infraestrutura, pontos de interesse, comércios e etc.
@@ -15,6 +15,6 @@ TODO: adicionar links de coisas já existentes que podem ser mixadas a idéia.
 |  Pessoas desaparecidas. |  Fazer um web service que entregue dados e fotos de pessoas desaparecidas, e fazer uma espécie de rede social pra fazer com que as pessoas anunciem caso encontrem alguma pista das pessoas.
 |  Melhorias no meu bairro |  Uma aplicação WEB 2.0 de participação dos usuários para propor e votar melhorias já propostas para cada um dos bairros da cidade. Acessar as requisições já abertas e distribuir elas em um mapa e em tabelas resumitivas. Mostrar detalhes investimentos da prefeitura em uma região escolhida pelo usuário
 |  Eu cidadão |  Agregar tarefas que podem ser feita pelos cidadãos e um cidadão poderá usar seu tempo livre(ou se organizarem para tal coisa) para ajudar em uma tarefa. Seria algo semelhante ao bliive de serviços comunitários, mas com auxílio da prefeitura, pois teria uma forma dos cidadãos pedirem recursos da prefeitura.
-|  allourideas.org |  Levantar de maneira democrática e eficiente as prioridades da cidade. Utilizando a opinião da população para tal.
+|  allourideas.org |  Levantar de maneira democrática e eficiente as prioridades da cidade. Utilizando a opinião da população para tal. | [github](https://github.com/allourideas) [site](http://www.allourideas.org/)
 
 
