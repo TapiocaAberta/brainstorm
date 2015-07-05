@@ -1,5 +1,7 @@
 # Idéias
 
+TODO: adicionar links de coisas já existentes que podem ser mixadas a idéia.
+
 | Nome          | Objetivo          |
 | ------------- | ----------- |
 |  Orçamento participativo online. |  Criar uma plataforma que permita com que as pessoas participem do orçamento participativo sem ter a necessidade de ir até o local físico das reuniões.
