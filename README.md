@@ -23,3 +23,14 @@ TODO: adicionar links de coisas já existentes que podem ser mixadas a idéia.
 |  Tinder para vereadores de SJC |  Um tinder para candidatos a vereador e prefeito: onde o match é o voto. (ideia de @Teles | 
 
 
+# Plano de Negócios
+
+TODO: profissionalizar a iniciativa, adicionar Issues para as tarefa para esse propósito.
+
+WHAT – O QUE SERÁ FEITO (ETAPAS)
+WHY – POR QUE SERÁ FEITO (JUSTIFICATIVA)
+WHERE – ONDE SERÁ FEITO (LOCAL)
+WHEN – QUANDO SERÁ FEITO (TEMPO)
+WHO – POR QUEM SERÁ FEITO (RESPONSABILIDADE)
+HOW – COMO SERÁ FEITO (MÉTODO)
+HOW MUCH – QUANTO CUSTARÁ FAZER (CUSTO)
