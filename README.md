@@ -21,6 +21,8 @@ TODO: adicionar links de coisas já existentes que podem ser mixadas a idéia.
 |  Eu cidadão |  Agregar tarefas que podem ser feita pelos cidadãos e um cidadão poderá usar seu tempo livre(ou se organizarem para tal coisa) para ajudar em uma tarefa. Seria algo semelhante ao bliive de serviços comunitários, mas com auxílio da prefeitura, pois teria uma forma dos cidadãos pedirem recursos da prefeitura.
 |  allourideas.org |  Levantar de maneira democrática e eficiente as prioridades da cidade. Utilizando a opinião da população para tal. | [github](https://github.com/allourideas) [site](http://www.allourideas.org/)
 |  Tinder para vereadores de SJC |  Um tinder para candidatos a vereador e prefeito: onde o match é o voto. (ideia de @Teles | 
+|  Solução web Interlegis | Eles seguem padrões abertos e entendem a importância de tal | [Site](http://www.interlegis.leg.br/solucaoweb)
+
 
 
 # Plano de Negócios
