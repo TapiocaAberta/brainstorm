@@ -22,7 +22,7 @@ TODO: adicionar links de coisas já existentes que podem ser mixadas a idéia.
 |  allourideas.org |  Levantar de maneira democrática e eficiente as prioridades da cidade. Utilizando a opinião da população para tal. | [github](https://github.com/allourideas) [site](http://www.allourideas.org/)
 |  Tinder para vereadores de SJC |  Um tinder para candidatos a vereador e prefeito: onde o match é o voto. (ideia de @Teles | 
 |  Solução web Interlegis | Eles seguem padrões abertos e entendem a importância de tal | [Site](http://www.interlegis.leg.br/solucaoweb)
-|  Medidor de poluição |  Medir poluição do ar em vários pontos da cidade e enviar para um servidor que acumulará dados históricos | 
+|  Medidor de poluição |  Medir poluição do ar em vários pontos da cidade e enviar para um servidor que acumulará dados históricos | Aparentemente já existe -> http://aircasting.org/
 
 
 
