@@ -23,7 +23,7 @@ TODO: adicionar links de coisas já existentes que podem ser mixadas a idéia.
 |  Tinder para vereadores de SJC |  Um tinder para candidatos a vereador e prefeito: onde o match é o voto. (ideia de @Teles | 
 |  Solução web Interlegis | Eles seguem padrões abertos e entendem a importância de tal | [Site](http://www.interlegis.leg.br/solucaoweb)
 |  Medidor de poluição |  Medir poluição do ar em vários pontos da cidade e enviar para um servidor que acumulará dados históricos | Aparentemente já existe -> http://aircasting.org/ |
-|  Auditor de Escola |  Usar a API do TCU (https://github.com/AppCivicoPlataforma/AppCivico/blob/master/EscolasAPI.md) para montar um app que o aluno realiza a auditoria do que tem na escola. Ex. Na API fala que tem 10 pcs por aluno, mas, na vdd no existe PC. E também, podem falar que a escola é boa ou no.| 
+|  Auditor de Escola |  Usar a API do TCU para montar um app que o aluno realiza a auditoria do que tem na escola. Ex. Na API fala que tem 10 pcs por aluno, mas, na vdd no existe PC. E também, podem falar que a escola é boa ou no.| [API Escolas TCU](https://github.com/AppCivicoPlataforma/AppCivico/blob/master/EscolasAPI.md)
 
 
 
